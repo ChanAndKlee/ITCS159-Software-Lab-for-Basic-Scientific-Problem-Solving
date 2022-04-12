@@ -1,4 +1,4 @@
-# ITCS159-Software-Lab-for-Basic-Scientific-Problem-Solving
+# ITCS159 Software Lab for Basic Scientific Problem Solving
 #### This is a compilation of all projects that I have done within the software lab class.
 
 Currently, the topics will be covered Numpy, Scipy, Matplotlib, Pandas, Sklearn, NLTK, etc.
